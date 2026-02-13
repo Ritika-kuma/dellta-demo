@@ -1,2 +1,2 @@
 # dellta-demo
-This is as demo for delta class
+This is as demo for delta class.
